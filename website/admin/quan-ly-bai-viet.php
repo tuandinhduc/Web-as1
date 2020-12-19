@@ -40,7 +40,7 @@
 			
 			<td>
 				<a href="chinh-sua-thanh-vien.php?id=<?php echo $id;?>">Sửa</a>
-				<a href="quan-ly-thanh-vien.php?id_delete=<?php echo $id;?>">Xóa</a>
+				<a href="quan-ly-bai-viet.php?id_delete=<?php echo $id;?>">Xóa</a>
 			</td>
 		</tr>
 	<?php 

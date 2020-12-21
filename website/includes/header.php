@@ -6,11 +6,11 @@
 		
 </head>
 	
-<body>		
+<body background="bg3.jpg">		
 
 	<header>
 		<div class="innertube">
-		<h1>Header</h1>
+		<h1>Page văn vở</h1></br>
 		<a href="index.php">Trang chủ</a>
             
 		</div>

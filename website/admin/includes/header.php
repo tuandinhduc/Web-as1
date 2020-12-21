@@ -6,7 +6,7 @@
 		<script src="http://localhost:8080/project/As2/website/admin/ckeditor/ckeditor.js"></script>
 </head>
 	
-<body>		
+<body width=100%>		
 
 	<header>
 		<div class="innertube">

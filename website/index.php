@@ -73,7 +73,7 @@ else {
 }
 ?>
 				<ul>
-					<li><a href="#">Link 1</a></li>
+					<li><a href="thong-tin-ca-nhan.php">Thay đổi thông tin cá nhân</a></li>
 					<li><a href="#">Link 2</a></li>
 					<li><a href="#">Link 3</a></li>
 					<li><a href="#">Link 4</a></li>

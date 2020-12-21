@@ -41,7 +41,10 @@
 				<td><input type="text" id="email" name="email"></td>
 			</tr>
 			<tr>
-				<td colspan="2" align="center"><input type="submit" name="btn_submit" value="Dang ky"></td>
+				<td colspan="2" align="center"><input type="submit" name="btn_submit" value="Đăng ký"></td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center"><a href="dang-nhap.php">Đã có tài khoản? Đăng nhập ngay!</a></td>
 			</tr>
 
 		</table>

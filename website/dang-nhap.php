@@ -57,8 +57,11 @@ if (isset($_POST["btn_submit"])) {
 	    			<td><input type="password" name="password" size="30"></td>
 	    		</tr>
 	    		<tr>
-	    			<td colspan="2" align="center"> <input type="submit" name="btn_submit" value="Đăng nhập"></td>
+	    			<td colspan="2" align="center"> <input type="submit" name="btn_submit" value="Đăng nhập"> <button type="button" action="dang-ky.php">Đăng ký</button></td>
 	    		</tr>
+				<tr>
+				<td colspan="2" align="center"><a href="dang-ky.php">Chưa có tài khoản? Đăng ký ngay!</a></td>
+			</tr>
 	    	</table>
   </fieldset>
   </form>

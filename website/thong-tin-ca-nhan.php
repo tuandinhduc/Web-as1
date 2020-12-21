@@ -2,7 +2,7 @@
 	session_start(); 
  ?>
 <?php require_once("includes/connection.php");?>
-
+<?php include("admin/includes/permission1.php");?>
 <?php include ("includes/header.php"); ?>
 <?php
 	if (isset($_POST["btn_submit"])) {

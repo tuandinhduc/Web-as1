@@ -1,6 +1,6 @@
 <nav>
 	<div class="innertube">
-		<h3>Right heading</h3>
+		<h3>Bài viết</h3>
 		<ul>
 		<li><a href="admin/them-bai-viet-ck.php">Thêm bài viết</a></li>
 					<li><a href="admin/quan-ly-bai-viet.php">Quản lý bài viết</a></li>
@@ -16,7 +16,7 @@
 					<li><a href="#">Link 4</a></li>
 					<li><a href="#">Link 5</a></li>
 		</ul>
-		<h3>Right heading</h3>
+		<h3>Cá nhân</h3>
 		<ul>
 			<li><a href="thong-tin-ca-nhan.php">Thông tin cá nhân</a></li>
 			<li><a href="#">Link 2</a></li>

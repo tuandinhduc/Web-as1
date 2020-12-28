@@ -20,13 +20,12 @@
 			<?php 
 				while ( $data = mysqli_fetch_array($query) ) {
 			?>
-				<h1>Tiêu đề: </h1>
-				<h2><?php echo $data['title']; ?></h2></div></ br>
-				<i> Ngày tạo : <?php echo $data['createdate']; ?></i>
+				<h1 style="text-align: center;"><?php echo $data['title']; ?></h1>
+				<p style="text-align: center;"> <i>Ngày tạo : <?php echo $data['createdate']; ?></i></p>
 				<p><?php echo $data['content']; ?></p>
 			<?php } ?>
 			</div>
-</br>
+</br></br>
 <h3>Bình luận </h3>
 			<div class="innertube">
 			<?php 
